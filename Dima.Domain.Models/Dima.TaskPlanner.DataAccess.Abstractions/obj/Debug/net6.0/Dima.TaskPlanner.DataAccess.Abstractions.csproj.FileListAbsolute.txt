@@ -1,0 +1,14 @@
+E:\VNTY\Розробка засобами .Net\PZ1\Dima.Domain.Models\Dima.TaskPlanner.DataAccess.Abstractions\bin\Debug\net6.0\Dima.TaskPlanner.DataAccess.Abstractions.exe
+E:\VNTY\Розробка засобами .Net\PZ1\Dima.Domain.Models\Dima.TaskPlanner.DataAccess.Abstractions\bin\Debug\net6.0\Dima.TaskPlanner.DataAccess.Abstractions.deps.json
+E:\VNTY\Розробка засобами .Net\PZ1\Dima.Domain.Models\Dima.TaskPlanner.DataAccess.Abstractions\bin\Debug\net6.0\Dima.TaskPlanner.DataAccess.Abstractions.runtimeconfig.json
+E:\VNTY\Розробка засобами .Net\PZ1\Dima.Domain.Models\Dima.TaskPlanner.DataAccess.Abstractions\bin\Debug\net6.0\Dima.TaskPlanner.DataAccess.Abstractions.dll
+E:\VNTY\Розробка засобами .Net\PZ1\Dima.Domain.Models\Dima.TaskPlanner.DataAccess.Abstractions\bin\Debug\net6.0\Dima.TaskPlanner.DataAccess.Abstractions.pdb
+E:\VNTY\Розробка засобами .Net\PZ1\Dima.Domain.Models\Dima.TaskPlanner.DataAccess.Abstractions\obj\Debug\net6.0\Dima.TaskPlanner.DataAccess.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+E:\VNTY\Розробка засобами .Net\PZ1\Dima.Domain.Models\Dima.TaskPlanner.DataAccess.Abstractions\obj\Debug\net6.0\Dima.TaskPlanner.DataAccess.Abstractions.AssemblyInfoInputs.cache
+E:\VNTY\Розробка засобами .Net\PZ1\Dima.Domain.Models\Dima.TaskPlanner.DataAccess.Abstractions\obj\Debug\net6.0\Dima.TaskPlanner.DataAccess.Abstractions.AssemblyInfo.cs
+E:\VNTY\Розробка засобами .Net\PZ1\Dima.Domain.Models\Dima.TaskPlanner.DataAccess.Abstractions\obj\Debug\net6.0\Dima.TaskPlanner.DataAccess.Abstractions.csproj.CoreCompileInputs.cache
+E:\VNTY\Розробка засобами .Net\PZ1\Dima.Domain.Models\Dima.TaskPlanner.DataAccess.Abstractions\obj\Debug\net6.0\Dima.TaskPlanner.DataAccess.Abstractions.dll
+E:\VNTY\Розробка засобами .Net\PZ1\Dima.Domain.Models\Dima.TaskPlanner.DataAccess.Abstractions\obj\Debug\net6.0\refint\Dima.TaskPlanner.DataAccess.Abstractions.dll
+E:\VNTY\Розробка засобами .Net\PZ1\Dima.Domain.Models\Dima.TaskPlanner.DataAccess.Abstractions\obj\Debug\net6.0\Dima.TaskPlanner.DataAccess.Abstractions.pdb
+E:\VNTY\Розробка засобами .Net\PZ1\Dima.Domain.Models\Dima.TaskPlanner.DataAccess.Abstractions\obj\Debug\net6.0\Dima.TaskPlanner.DataAccess.Abstractions.genruntimeconfig.cache
+E:\VNTY\Розробка засобами .Net\PZ1\Dima.Domain.Models\Dima.TaskPlanner.DataAccess.Abstractions\obj\Debug\net6.0\ref\Dima.TaskPlanner.DataAccess.Abstractions.dll

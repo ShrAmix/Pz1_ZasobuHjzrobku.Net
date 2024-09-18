@@ -1,0 +1,102 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Dima.Domain.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Dima.Domain.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Dima.Domain.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dima.Domain.Models/1.0.0": {
+      "type": "project",
+      "path": "../Dima.Domain.Models/Dima.Domain.Models.csproj",
+      "msbuildProject": "../Dima.Domain.Models/Dima.Domain.Models.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Dima.Domain.Models >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\ifoxp\\.nuget\\packages\\": {},
+    "E:\\Programs\\VisualStudio2022\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\VNTY\\Розробка засобами .Net\\PZ1\\Dima.Domain.Models\\Dima.TaskPlanner.DataAccess\\Dima.TaskPlanner.DataAccess.csproj",
+      "projectName": "Dima.TaskPlanner.DataAccess",
+      "projectPath": "E:\\VNTY\\Розробка засобами .Net\\PZ1\\Dima.Domain.Models\\Dima.TaskPlanner.DataAccess\\Dima.TaskPlanner.DataAccess.csproj",
+      "packagesPath": "C:\\Users\\ifoxp\\.nuget\\packages\\",
+      "outputPath": "E:\\VNTY\\Розробка засобами .Net\\PZ1\\Dima.Domain.Models\\Dima.TaskPlanner.DataAccess\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "E:\\Programs\\VisualStudio2022\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\ifoxp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "E:\\VNTY\\Розробка засобами .Net\\PZ1\\Dima.Domain.Models\\Dima.Domain.Models\\Dima.Domain.Models.csproj": {
+              "projectPath": "E:\\VNTY\\Розробка засобами .Net\\PZ1\\Dima.Domain.Models\\Dima.Domain.Models\\Dima.Domain.Models.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

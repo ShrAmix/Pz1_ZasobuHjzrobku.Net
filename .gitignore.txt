@@ -1,0 +1,45 @@
+# Папки Visual Studio
+.vscode/
+.vs/
+**/*.code-workspace
+
+# Папки для збірки
+bin/
+obj/
+
+# Пакети NuGet
+*.nupkg
+*.snupkg
+packages/
+!**/packages/build/
+!**/packages/repositories.config
+
+# Папки та файли локальних конфігурацій
+appsettings.Development.json
+appsettings.Local.json
+appsettings.Production.json
+appsettings.Staging.json
+appsettings.Test.json
+.env
+.env.local
+
+# Логи
+*.log
+**/*.log
+logs/
+
+# Конфігураційні файли для IDE
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.sln.ide
+*.psess
+*.sln.docstates
+
+# Інші тимчасові файли
+*.tmp
+*.temp
+*.bak
+*.swp

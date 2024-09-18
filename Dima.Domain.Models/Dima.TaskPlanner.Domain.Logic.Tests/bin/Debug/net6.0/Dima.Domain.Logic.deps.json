@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Dima.Domain.Logic/1.0.0": {
+        "dependencies": {
+          "Dima.Domain.Models": "1.0.0",
+          "Dima.TaskPlanner.DataAccess": "1.0.0"
+        },
+        "runtime": {
+          "Dima.Domain.Logic.dll": {}
+        }
+      },
+      "Dima.Domain.Models/1.0.0": {
+        "runtime": {
+          "Dima.Domain.Models.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Dima.TaskPlanner.DataAccess/1.0.0": {
+        "dependencies": {
+          "Dima.Domain.Models": "1.0.0"
+        },
+        "runtime": {
+          "Dima.TaskPlanner.DataAccess.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dima.Domain.Logic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Dima.Domain.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Dima.TaskPlanner.DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

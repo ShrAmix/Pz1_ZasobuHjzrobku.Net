@@ -1,0 +1,5 @@
+E:\VNTY\Розробка засобами .Net\PZ1\Dima.Domain.Models\Dima.DataAccess\obj\Debug\net6.0\Dima.DataAccess.csproj.AssemblyReference.cache
+E:\VNTY\Розробка засобами .Net\PZ1\Dima.Domain.Models\Dima.DataAccess\obj\Debug\net6.0\Dima.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\VNTY\Розробка засобами .Net\PZ1\Dima.Domain.Models\Dima.DataAccess\obj\Debug\net6.0\Dima.DataAccess.AssemblyInfoInputs.cache
+E:\VNTY\Розробка засобами .Net\PZ1\Dima.Domain.Models\Dima.DataAccess\obj\Debug\net6.0\Dima.DataAccess.AssemblyInfo.cs
+E:\VNTY\Розробка засобами .Net\PZ1\Dima.Domain.Models\Dima.DataAccess\obj\Debug\net6.0\Dima.DataAccess.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+E:\VNTY\Розробка засобами .Net\PZ1\Dima.Domain.Models\Dima.Domain.Models\bin\Debug\net6.0\Dima.Domain.Models.exe
+E:\VNTY\Розробка засобами .Net\PZ1\Dima.Domain.Models\Dima.Domain.Models\bin\Debug\net6.0\Dima.Domain.Models.deps.json
+E:\VNTY\Розробка засобами .Net\PZ1\Dima.Domain.Models\Dima.Domain.Models\bin\Debug\net6.0\Dima.Domain.Models.runtimeconfig.json
+E:\VNTY\Розробка засобами .Net\PZ1\Dima.Domain.Models\Dima.Domain.Models\bin\Debug\net6.0\Dima.Domain.Models.dll
+E:\VNTY\Розробка засобами .Net\PZ1\Dima.Domain.Models\Dima.Domain.Models\bin\Debug\net6.0\Dima.Domain.Models.pdb
+E:\VNTY\Розробка засобами .Net\PZ1\Dima.Domain.Models\Dima.Domain.Models\obj\Debug\net6.0\Dima.Domain.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\VNTY\Розробка засобами .Net\PZ1\Dima.Domain.Models\Dima.Domain.Models\obj\Debug\net6.0\Dima.Domain.Models.AssemblyInfoInputs.cache
+E:\VNTY\Розробка засобами .Net\PZ1\Dima.Domain.Models\Dima.Domain.Models\obj\Debug\net6.0\Dima.Domain.Models.AssemblyInfo.cs
+E:\VNTY\Розробка засобами .Net\PZ1\Dima.Domain.Models\Dima.Domain.Models\obj\Debug\net6.0\Dima.Domain.Models.csproj.CoreCompileInputs.cache
+E:\VNTY\Розробка засобами .Net\PZ1\Dima.Domain.Models\Dima.Domain.Models\obj\Debug\net6.0\Dima.Domain.Models.dll
+E:\VNTY\Розробка засобами .Net\PZ1\Dima.Domain.Models\Dima.Domain.Models\obj\Debug\net6.0\refint\Dima.Domain.Models.dll
+E:\VNTY\Розробка засобами .Net\PZ1\Dima.Domain.Models\Dima.Domain.Models\obj\Debug\net6.0\Dima.Domain.Models.pdb
+E:\VNTY\Розробка засобами .Net\PZ1\Dima.Domain.Models\Dima.Domain.Models\obj\Debug\net6.0\Dima.Domain.Models.genruntimeconfig.cache
+E:\VNTY\Розробка засобами .Net\PZ1\Dima.Domain.Models\Dima.Domain.Models\obj\Debug\net6.0\ref\Dima.Domain.Models.dll
